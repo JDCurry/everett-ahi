@@ -1,0 +1,240 @@
+{
+  "BOULEVARD BLUFFS": {
+    "drainage_basins": [
+      "BAY BLUFF",
+      "EDGEWATER",
+      "EVERETT WEST",
+      "JAPANESE",
+      "MERRILL & RING",
+      "NARBECK",
+      "PHILLIPS",
+      "POWDER MILL"
+    ],
+    "num_basins": 8,
+    "basin_overlap_acres": 1177.0,
+    "has_levee_protection": false,
+    "levee_segments": 0
+  },
+  "VIEW RIDGE-MADISON": {
+    "drainage_basins": [
+      "BAY BLUFF",
+      "GLENWOOD",
+      "PIGEON CR NO.1",
+      "PIGEON CR NO.2"
+    ],
+    "num_basins": 4,
+    "basin_overlap_acres": 982.2,
+    "has_levee_protection": false,
+    "levee_segments": 0
+  },
+  "VALLEY VIEW": {
+    "drainage_basins": [
+      "LOWELL",
+      "MARSHLAND",
+      "MARSHLAND TRIBUTARIES",
+      "WOOD CREEK"
+    ],
+    "num_basins": 4,
+    "basin_overlap_acres": 319.1,
+    "has_levee_protection": false,
+    "levee_segments": 0
+  },
+  "HARBORVIEW-SEAHURST-GLENHAVEN": {
+    "drainage_basins": [
+      "BAY BLUFF",
+      "GLENHAVEN CREEK",
+      "GLENWOOD",
+      "MERRILL & RING",
+      "PHILLIPS",
+      "PIGEON CR NO.2"
+    ],
+    "num_basins": 6,
+    "basin_overlap_acres": 558.9,
+    "has_levee_protection": false,
+    "levee_segments": 0
+  },
+  "DELTA": {
+    "drainage_basins": [
+      "COMBINED SEWER",
+      "POTENTIAL RECEIVING WATER AREA",
+      "RIVERSIDE"
+    ],
+    "num_basins": 3,
+    "basin_overlap_acres": 714.3,
+    "has_levee_protection": false,
+    "levee_segments": 0
+  },
+  "RIVERSIDE": {
+    "drainage_basins": [
+      "COMBINED SEWER",
+      "RIVERFRONT",
+      "RIVERSIDE"
+    ],
+    "num_basins": 3,
+    "basin_overlap_acres": 792.3,
+    "has_levee_protection": false,
+    "levee_segments": 0
+  },
+  "EVERGREEN": {
+    "drainage_basins": [
+      "MERRILL & RING",
+      "PIGEON CR NO.1",
+      "PIGEON CR NO.2"
+    ],
+    "num_basins": 3,
+    "basin_overlap_acres": 589.7,
+    "has_levee_protection": false,
+    "levee_segments": 0
+  },
+  "WESTMONT": {
+    "drainage_basins": [
+      "JAPANESE",
+      "MERRILL & RING",
+      "NARBECK",
+      "NORTH CREEK",
+      "PIGEON CR NO.2",
+      "POWDER MILL",
+      "SWAMP CREEK"
+    ],
+    "num_basins": 7,
+    "basin_overlap_acres": 849.1,
+    "has_levee_protection": false,
+    "levee_segments": 0
+  },
+  "HOLLY": {
+    "drainage_basins": [
+      "MERRILL & RING",
+      "NORTH CREEK",
+      "SWAMP CREEK"
+    ],
+    "num_basins": 3,
+    "basin_overlap_acres": 895.4,
+    "has_levee_protection": false,
+    "levee_segments": 0
+  },
+  "PORT GARDNER": {
+    "drainage_basins": [
+      "COMBINED SEWER",
+      "PIGEON CR NO.1",
+      "POTENTIAL RECEIVING WATER AREA",
+      "RIVERFRONT",
+      "RIVERSIDE",
+      "WATERFRONT"
+    ],
+    "num_basins": 6,
+    "basin_overlap_acres": 1209.7,
+    "has_levee_protection": false,
+    "levee_segments": 0
+  },
+  "BAYSIDE": {
+    "drainage_basins": [
+      "COMBINED SEWER",
+      "WATERFRONT"
+    ],
+    "num_basins": 2,
+    "basin_overlap_acres": 533.0,
+    "has_levee_protection": false,
+    "levee_segments": 0
+  },
+  "CASCADE VIEW": {
+    "drainage_basins": [
+      "LOWELL",
+      "NORTH CREEK",
+      "PENNY CREEK",
+      "PIGEON CR NO.2",
+      "SWAMP CREEK",
+      "WOOD CREEK"
+    ],
+    "num_basins": 6,
+    "basin_overlap_acres": 658.1,
+    "has_levee_protection": false,
+    "levee_segments": 0
+  },
+  "TWIN CREEKS": {
+    "drainage_basins": [
+      "LOWELL",
+      "NORTH CREEK",
+      "PENNY CREEK",
+      "SWAMP CREEK",
+      "WOOD CREEK"
+    ],
+    "num_basins": 5,
+    "basin_overlap_acres": 877.4,
+    "has_levee_protection": false,
+    "levee_segments": 0
+  },
+  "LOWELL": {
+    "drainage_basins": [
+      "COMBINED SEWER",
+      "LOWELL",
+      "MARSHLAND",
+      "RIVERFRONT"
+    ],
+    "num_basins": 4,
+    "basin_overlap_acres": 930.2,
+    "has_levee_protection": true,
+    "levee_segments": 3
+  },
+  "SILVER LAKE": {
+    "drainage_basins": [
+      "LOWELL",
+      "MARSHLAND TRIBUTARIES",
+      "NORTH CREEK",
+      "PENNY CREEK",
+      "WOOD CREEK"
+    ],
+    "num_basins": 5,
+    "basin_overlap_acres": 3645.7,
+    "has_levee_protection": false,
+    "levee_segments": 0
+  },
+  "SOUTH FOREST PARK": {
+    "drainage_basins": [
+      "COMBINED SEWER",
+      "PIGEON CR NO.1",
+      "POTENTIAL RECEIVING WATER AREA",
+      "RIVERFRONT"
+    ],
+    "num_basins": 4,
+    "basin_overlap_acres": 394.3,
+    "has_levee_protection": false,
+    "levee_segments": 0
+  },
+  "GLACIER VIEW": {
+    "drainage_basins": [
+      "COMBINED SEWER",
+      "LOWELL",
+      "PIGEON CR NO.1",
+      "POTENTIAL RECEIVING WATER AREA",
+      "RIVERFRONT"
+    ],
+    "num_basins": 5,
+    "basin_overlap_acres": 676.1,
+    "has_levee_protection": false,
+    "levee_segments": 0
+  },
+  "PINEHURST-BEVERLY PARK": {
+    "drainage_basins": [
+      "COMBINED SEWER",
+      "LOWELL",
+      "PIGEON CR NO.1",
+      "PIGEON CR NO.2",
+      "WOOD CREEK"
+    ],
+    "num_basins": 5,
+    "basin_overlap_acres": 897.0,
+    "has_levee_protection": false,
+    "levee_segments": 0
+  },
+  "NORTHWEST EVERETT": {
+    "drainage_basins": [
+      "COMBINED SEWER",
+      "RIVERSIDE",
+      "WATERFRONT"
+    ],
+    "num_basins": 3,
+    "basin_overlap_acres": 965.2,
+    "has_levee_protection": false,
+    "levee_segments": 0
+  }
+}

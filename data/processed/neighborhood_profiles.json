@@ -1,0 +1,601 @@
+{
+  "neighborhoods": {
+    "BOULEVARD BLUFFS": {
+      "neighborhood": "BOULEVARD BLUFFS",
+      "area_acres": 1181.1,
+      "census_tracts": [],
+      "hazard_call_counts": {
+        "fire": 33,
+        "flood": 0,
+        "hazmat": 0,
+        "wildfire": 0,
+        "winter": 18
+      },
+      "total_hazard_calls": 51,
+      "flood_exposure": {
+        "drainage_basins": [
+          "BAY BLUFF",
+          "EDGEWATER",
+          "EVERETT WEST",
+          "JAPANESE",
+          "MERRILL & RING",
+          "NARBECK",
+          "PHILLIPS",
+          "POWDER MILL"
+        ],
+        "num_basins": 8,
+        "basin_overlap_acres": 1177.0,
+        "has_levee_protection": false,
+        "levee_segments": 0
+      }
+    },
+    "VIEW RIDGE-MADISON": {
+      "neighborhood": "VIEW RIDGE-MADISON",
+      "area_acres": 982.8,
+      "census_tracts": [],
+      "hazard_call_counts": {
+        "fire": 58,
+        "flood": 0,
+        "hazmat": 0,
+        "wildfire": 0,
+        "winter": 11
+      },
+      "total_hazard_calls": 69,
+      "flood_exposure": {
+        "drainage_basins": [
+          "BAY BLUFF",
+          "GLENWOOD",
+          "PIGEON CR NO.1",
+          "PIGEON CR NO.2"
+        ],
+        "num_basins": 4,
+        "basin_overlap_acres": 982.2,
+        "has_levee_protection": false,
+        "levee_segments": 0
+      }
+    },
+    "VALLEY VIEW": {
+      "neighborhood": "VALLEY VIEW",
+      "area_acres": 319.1,
+      "census_tracts": [],
+      "hazard_call_counts": {
+        "fire": 6,
+        "flood": 0,
+        "hazmat": 0,
+        "wildfire": 6,
+        "winter": 4
+      },
+      "total_hazard_calls": 16,
+      "flood_exposure": {
+        "drainage_basins": [
+          "LOWELL",
+          "MARSHLAND",
+          "MARSHLAND TRIBUTARIES",
+          "WOOD CREEK"
+        ],
+        "num_basins": 4,
+        "basin_overlap_acres": 319.1,
+        "has_levee_protection": false,
+        "levee_segments": 0
+      }
+    },
+    "HARBORVIEW-SEAHURST-GLENHAVEN": {
+      "neighborhood": "HARBORVIEW-SEAHURST-GLENHAVEN",
+      "area_acres": 559.1,
+      "census_tracts": [],
+      "hazard_call_counts": {
+        "fire": 30,
+        "flood": 13,
+        "hazmat": 0,
+        "wildfire": 0,
+        "winter": 31
+      },
+      "total_hazard_calls": 74,
+      "flood_exposure": {
+        "drainage_basins": [
+          "BAY BLUFF",
+          "GLENHAVEN CREEK",
+          "GLENWOOD",
+          "MERRILL & RING",
+          "PHILLIPS",
+          "PIGEON CR NO.2"
+        ],
+        "num_basins": 6,
+        "basin_overlap_acres": 558.9,
+        "has_levee_protection": false,
+        "levee_segments": 0
+      }
+    },
+    "DELTA": {
+      "neighborhood": "DELTA",
+      "area_acres": 722.0,
+      "census_tracts": [],
+      "hazard_call_counts": {
+        "fire": 243,
+        "flood": 0,
+        "hazmat": 0,
+        "wildfire": 13,
+        "winter": 63
+      },
+      "total_hazard_calls": 319,
+      "flood_exposure": {
+        "drainage_basins": [
+          "COMBINED SEWER",
+          "POTENTIAL RECEIVING WATER AREA",
+          "RIVERSIDE"
+        ],
+        "num_basins": 3,
+        "basin_overlap_acres": 714.3,
+        "has_levee_protection": false,
+        "levee_segments": 0
+      }
+    },
+    "RIVERSIDE": {
+      "neighborhood": "RIVERSIDE",
+      "area_acres": 794.1,
+      "census_tracts": [],
+      "hazard_call_counts": {
+        "fire": 140,
+        "flood": 0,
+        "hazmat": 5,
+        "wildfire": 7,
+        "winter": 26
+      },
+      "total_hazard_calls": 178,
+      "flood_exposure": {
+        "drainage_basins": [
+          "COMBINED SEWER",
+          "RIVERFRONT",
+          "RIVERSIDE"
+        ],
+        "num_basins": 3,
+        "basin_overlap_acres": 792.3,
+        "has_levee_protection": false,
+        "levee_segments": 0
+      }
+    },
+    "EVERGREEN": {
+      "neighborhood": "EVERGREEN",
+      "area_acres": 589.7,
+      "census_tracts": [],
+      "hazard_call_counts": {
+        "fire": 176,
+        "flood": 0,
+        "hazmat": 0,
+        "wildfire": 18,
+        "winter": 21
+      },
+      "total_hazard_calls": 215,
+      "flood_exposure": {
+        "drainage_basins": [
+          "MERRILL & RING",
+          "PIGEON CR NO.1",
+          "PIGEON CR NO.2"
+        ],
+        "num_basins": 3,
+        "basin_overlap_acres": 589.7,
+        "has_levee_protection": false,
+        "levee_segments": 0
+      }
+    },
+    "WESTMONT": {
+      "neighborhood": "WESTMONT",
+      "area_acres": 849.1,
+      "census_tracts": [],
+      "hazard_call_counts": {
+        "fire": 280,
+        "flood": 0,
+        "hazmat": 12,
+        "wildfire": 0,
+        "winter": 47
+      },
+      "total_hazard_calls": 339,
+      "flood_exposure": {
+        "drainage_basins": [
+          "JAPANESE",
+          "MERRILL & RING",
+          "NARBECK",
+          "NORTH CREEK",
+          "PIGEON CR NO.2",
+          "POWDER MILL",
+          "SWAMP CREEK"
+        ],
+        "num_basins": 7,
+        "basin_overlap_acres": 849.1,
+        "has_levee_protection": false,
+        "levee_segments": 0
+      }
+    },
+    "HOLLY": {
+      "neighborhood": "HOLLY",
+      "area_acres": 895.4,
+      "census_tracts": [],
+      "hazard_call_counts": {
+        "fire": 286,
+        "flood": 0,
+        "hazmat": 0,
+        "wildfire": 18,
+        "winter": 33
+      },
+      "total_hazard_calls": 337,
+      "flood_exposure": {
+        "drainage_basins": [
+          "MERRILL & RING",
+          "NORTH CREEK",
+          "SWAMP CREEK"
+        ],
+        "num_basins": 3,
+        "basin_overlap_acres": 895.4,
+        "has_levee_protection": false,
+        "levee_segments": 0
+      }
+    },
+    "PORT GARDNER": {
+      "neighborhood": "PORT GARDNER",
+      "area_acres": 1209.9,
+      "census_tracts": [],
+      "hazard_call_counts": {
+        "fire": 584,
+        "flood": 0,
+        "hazmat": 0,
+        "wildfire": 48,
+        "winter": 56
+      },
+      "total_hazard_calls": 688,
+      "flood_exposure": {
+        "drainage_basins": [
+          "COMBINED SEWER",
+          "PIGEON CR NO.1",
+          "POTENTIAL RECEIVING WATER AREA",
+          "RIVERFRONT",
+          "RIVERSIDE",
+          "WATERFRONT"
+        ],
+        "num_basins": 6,
+        "basin_overlap_acres": 1209.7,
+        "has_levee_protection": false,
+        "levee_segments": 0
+      }
+    },
+    "BAYSIDE": {
+      "neighborhood": "BAYSIDE",
+      "area_acres": 539.6,
+      "census_tracts": [],
+      "hazard_call_counts": {
+        "fire": 194,
+        "flood": 0,
+        "hazmat": 4,
+        "wildfire": 10,
+        "winter": 33
+      },
+      "total_hazard_calls": 241,
+      "flood_exposure": {
+        "drainage_basins": [
+          "COMBINED SEWER",
+          "WATERFRONT"
+        ],
+        "num_basins": 2,
+        "basin_overlap_acres": 533.0,
+        "has_levee_protection": false,
+        "levee_segments": 0
+      }
+    },
+    "CASCADE VIEW": {
+      "neighborhood": "CASCADE VIEW",
+      "area_acres": 658.1,
+      "census_tracts": [],
+      "hazard_call_counts": {
+        "fire": 221,
+        "flood": 0,
+        "hazmat": 0,
+        "wildfire": 14,
+        "winter": 34
+      },
+      "total_hazard_calls": 269,
+      "flood_exposure": {
+        "drainage_basins": [
+          "LOWELL",
+          "NORTH CREEK",
+          "PENNY CREEK",
+          "PIGEON CR NO.2",
+          "SWAMP CREEK",
+          "WOOD CREEK"
+        ],
+        "num_basins": 6,
+        "basin_overlap_acres": 658.1,
+        "has_levee_protection": false,
+        "levee_segments": 0
+      }
+    },
+    "TWIN CREEKS": {
+      "neighborhood": "TWIN CREEKS",
+      "area_acres": 877.4,
+      "census_tracts": [],
+      "hazard_call_counts": {
+        "fire": 280,
+        "flood": 0,
+        "hazmat": 0,
+        "wildfire": 20,
+        "winter": 48
+      },
+      "total_hazard_calls": 348,
+      "flood_exposure": {
+        "drainage_basins": [
+          "LOWELL",
+          "NORTH CREEK",
+          "PENNY CREEK",
+          "SWAMP CREEK",
+          "WOOD CREEK"
+        ],
+        "num_basins": 5,
+        "basin_overlap_acres": 877.4,
+        "has_levee_protection": false,
+        "levee_segments": 0
+      }
+    },
+    "LOWELL": {
+      "neighborhood": "LOWELL",
+      "area_acres": 931.3,
+      "census_tracts": [],
+      "hazard_call_counts": {
+        "fire": 52,
+        "flood": 0,
+        "hazmat": 0,
+        "wildfire": 5,
+        "winter": 10
+      },
+      "total_hazard_calls": 67,
+      "flood_exposure": {
+        "drainage_basins": [
+          "COMBINED SEWER",
+          "LOWELL",
+          "MARSHLAND",
+          "RIVERFRONT"
+        ],
+        "num_basins": 4,
+        "basin_overlap_acres": 930.2,
+        "has_levee_protection": true,
+        "levee_segments": 3
+      }
+    },
+    "SILVER LAKE": {
+      "neighborhood": "SILVER LAKE",
+      "area_acres": 3652.9,
+      "census_tracts": [],
+      "hazard_call_counts": {
+        "fire": 227,
+        "flood": 21,
+        "hazmat": 0,
+        "wildfire": 40,
+        "winter": 58
+      },
+      "total_hazard_calls": 346,
+      "flood_exposure": {
+        "drainage_basins": [
+          "LOWELL",
+          "MARSHLAND TRIBUTARIES",
+          "NORTH CREEK",
+          "PENNY CREEK",
+          "WOOD CREEK"
+        ],
+        "num_basins": 5,
+        "basin_overlap_acres": 3645.7,
+        "has_levee_protection": false,
+        "levee_segments": 0
+      }
+    },
+    "SOUTH FOREST PARK": {
+      "neighborhood": "SOUTH FOREST PARK",
+      "area_acres": 394.3,
+      "census_tracts": [],
+      "hazard_call_counts": {
+        "fire": 186,
+        "flood": 0,
+        "hazmat": 0,
+        "wildfire": 0,
+        "winter": 21
+      },
+      "total_hazard_calls": 207,
+      "flood_exposure": {
+        "drainage_basins": [
+          "COMBINED SEWER",
+          "PIGEON CR NO.1",
+          "POTENTIAL RECEIVING WATER AREA",
+          "RIVERFRONT"
+        ],
+        "num_basins": 4,
+        "basin_overlap_acres": 394.3,
+        "has_levee_protection": false,
+        "levee_segments": 0
+      }
+    },
+    "GLACIER VIEW": {
+      "neighborhood": "GLACIER VIEW",
+      "area_acres": 676.1,
+      "census_tracts": [],
+      "hazard_call_counts": {
+        "fire": 112,
+        "flood": 0,
+        "hazmat": 9,
+        "wildfire": 12,
+        "winter": 27
+      },
+      "total_hazard_calls": 160,
+      "flood_exposure": {
+        "drainage_basins": [
+          "COMBINED SEWER",
+          "LOWELL",
+          "PIGEON CR NO.1",
+          "POTENTIAL RECEIVING WATER AREA",
+          "RIVERFRONT"
+        ],
+        "num_basins": 5,
+        "basin_overlap_acres": 676.1,
+        "has_levee_protection": false,
+        "levee_segments": 0
+      }
+    },
+    "PINEHURST-BEVERLY PARK": {
+      "neighborhood": "PINEHURST-BEVERLY PARK",
+      "area_acres": 897.0,
+      "census_tracts": [],
+      "hazard_call_counts": {
+        "fire": 389,
+        "flood": 0,
+        "hazmat": 0,
+        "wildfire": 27,
+        "winter": 25
+      },
+      "total_hazard_calls": 441,
+      "flood_exposure": {
+        "drainage_basins": [
+          "COMBINED SEWER",
+          "LOWELL",
+          "PIGEON CR NO.1",
+          "PIGEON CR NO.2",
+          "WOOD CREEK"
+        ],
+        "num_basins": 5,
+        "basin_overlap_acres": 897.0,
+        "has_levee_protection": false,
+        "levee_segments": 0
+      }
+    },
+    "NORTHWEST EVERETT": {
+      "neighborhood": "NORTHWEST EVERETT",
+      "area_acres": 966.8,
+      "census_tracts": [],
+      "hazard_call_counts": {
+        "fire": 205,
+        "flood": 12,
+        "hazmat": 0,
+        "wildfire": 0,
+        "winter": 31
+      },
+      "total_hazard_calls": 248,
+      "flood_exposure": {
+        "drainage_basins": [
+          "COMBINED SEWER",
+          "RIVERSIDE",
+          "WATERFRONT"
+        ],
+        "num_basins": 3,
+        "basin_overlap_acres": 965.2,
+        "has_levee_protection": false,
+        "levee_segments": 0
+      }
+    }
+  },
+  "cpri_rankings": {
+    "earthquake": {
+      "score": 3.85,
+      "rank": 1,
+      "tier": "HIGH"
+    },
+    "flood": {
+      "score": 2.85,
+      "rank": 2,
+      "tier": "HIGH"
+    },
+    "severe_weather": {
+      "score": 2.85,
+      "rank": 2,
+      "tier": "HIGH"
+    },
+    "landslide": {
+      "score": 2.35,
+      "rank": 4,
+      "tier": "HIGH"
+    },
+    "wildfire": {
+      "score": 2.3,
+      "rank": 5,
+      "tier": "MEDIUM"
+    }
+  },
+  "total_buildings": 58956,
+  "shelters": [
+    {
+      "name": "American Legion Memorial Park",
+      "address": "145 Alverson Blvd",
+      "acreage": 18.5
+    },
+    {
+      "name": "Clark Park",
+      "address": "2400 Lombard Ave",
+      "acreage": 2.4
+    },
+    {
+      "name": "Drew Nielsen Neighborhood Park",
+      "address": "13th St & Colby Ave",
+      "acreage": 0.4
+    },
+    {
+      "name": "Forest Park",
+      "address": "802 E Mukilteo Blvd",
+      "acreage": 197.0
+    },
+    {
+      "name": "Garfield Park",
+      "address": "2300 Walnut St",
+      "acreage": 5.6
+    },
+    {
+      "name": "Hauge Homestead Park",
+      "address": "1819 121st St SE",
+      "acreage": 3.3
+    },
+    {
+      "name": "Kasch Memorial Park",
+      "address": "8811 Airport Rd",
+      "acreage": 60.0
+    },
+    {
+      "name": "Langus Riverfront Park",
+      "address": "400 Smith Island Rd",
+      "acreage": 96.0
+    },
+    {
+      "name": "Senator Henry M Jackson Park",
+      "address": "1700 State St",
+      "acreage": 15.25
+    },
+    {
+      "name": "Thornton A Sullivan Park",
+      "address": "11405 W Silver Lake Rd",
+      "acreage": 35.3
+    },
+    {
+      "name": "Walter E Hall Park",
+      "address": "1226 W Casino Rd",
+      "acreage": 9.0
+    },
+    {
+      "name": "Wiggums Hollow Park",
+      "address": "2808 10th St",
+      "acreage": 10.0
+    }
+  ],
+  "spada_reservoir": {
+    "latest_date": "2026-04-12",
+    "current_elevation_ft": 1443.57,
+    "max_level_ft": 1450.0,
+    "min_operating_ft": 1380.0
+  },
+  "precipitation": {
+    "ytd_inches": 33.71,
+    "climate_normal_inches": 61.78,
+    "ratio_to_normal": 0.546
+  },
+  "data_sources": {
+    "neighborhoods": "data.everettwa.gov \u2014 Neighborhoods GeoJSON",
+    "fire_911": "data.everettwa.gov \u2014 Fire 911 Unit Dispatches",
+    "drainage_basins": "data.everettwa.gov \u2014 Drainage Basins",
+    "flood_levees": "data.everettwa.gov \u2014 Flood Levee",
+    "buildings": "data.everettwa.gov \u2014 Building Footprint",
+    "parks": "data.everettwa.gov \u2014 COE Parks and Amenities",
+    "spada": "data.everettwa.gov \u2014 Spada Reservoir Elevation CY",
+    "precip": "data.everettwa.gov \u2014 Spada Cumulative Climate Precip CY",
+    "cpri": "2024 FEMA-Approved Snohomish County HMP (Everett annex)"
+  }
+}
